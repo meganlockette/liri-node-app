@@ -1,10 +1,10 @@
 # liri-node-app
 
 Technologies Used:
-Node.js
-JavaScript
-Spotify API
-OMDB API
+Node.js,
+JavaScript,
+Spotify API,
+OMDB API, and
 Bands in Town API
 
 Logic:
