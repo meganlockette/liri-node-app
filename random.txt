@@ -1,1 +1,295 @@
-spotify-this-song,"I Want it That Way"
+spotify-this-song,"I Want it That Way"Title: Inception
+
+Year: 2010
+
+imdb Rating: 8.8
+
+Country: USA, UK
+
+Language: English, Japanese, French
+
+Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+
+Cast: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+--------------------------------------------------------------
+
+
+Artist: Drake,
+Track Name: In My Feelings,
+Album Name: Scorpion,
+Preview Track: null
+--------------------------------------------------------------
+
+
+Artist: Lana Del Rey,
+Track Name: In My Feelings,
+Album Name: Lust For Life,
+Preview Track: null
+--------------------------------------------------------------
+
+
+Artist: Kehlani,
+Track Name: In My Feelings,
+Album Name: SweetSexySavage (Deluxe),
+Preview Track: https://p.scdn.co/mp3-preview/9e9c6ecedbb75c28f065ccdc5f65191c908c4890?cid=324289a841c8417ba5a8bb1b44188df9
+--------------------------------------------------------------
+
+
+Artist: Ann Marie,
+Track Name: In My Feelings,
+Album Name: Ann Marie,
+Preview Track: https://p.scdn.co/mp3-preview/e7f634f6b5a8c16c50bdd80b7782f625df8c699e?cid=324289a841c8417ba5a8bb1b44188df9
+--------------------------------------------------------------
+
+
+Artist: Kevin Gates,
+Track Name: In My Feelings,
+Album Name: Luca Brasi 2: Gangsta Grillz,
+Preview Track: https://p.scdn.co/mp3-preview/5e2fac9c9d383c460d5ee19f1829f1c9077924ac?cid=324289a841c8417ba5a8bb1b44188df9
+--------------------------------------------------------------
+
+
+Venue Name: 5th Street Beach Stage
+
+
+Location: Virginia Beach
+
+
+Date of Concert: 04/24/2020
+--------------------------------------------------------------
+
+
+Venue Name: Herdade da Casa Branca
+
+
+Location: Zambujeira Do Mar
+
+
+Date of Concert: 08/08/2020
+--------------------------------------------------------------
+
+
+Venue Name: Reading Festival
+
+
+Location: Reading
+
+
+Date of Concert: 08/27/2020
+--------------------------------------------------------------
+
+
+Venue Name: Parc Astrid
+
+
+Location: Le Liège
+
+
+Date of Concert: 07/09/2020
+--------------------------------------------------------------
+
+
+Venue Name: 5th Street Beach Stage
+
+
+Location: Virginia Beach
+
+
+Date of Concert: 04/26/2020
+--------------------------------------------------------------
+
+
+Venue Name: Richfield Avenue
+
+
+Location: Reading
+
+
+Date of Concert: 08/28/2020
+--------------------------------------------------------------
+
+
+Venue Name: Herdade da Casa Branca
+
+
+Location: Zambujeira Do Mar
+
+
+Date of Concert: 08/05/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 02/19/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 02/23/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 02/27/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 02/29/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 03/01/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 03/03/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 03/04/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 03/07/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 03/08/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 03/10/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 03/11/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 02/22/2020
+--------------------------------------------------------------
+
+
+Venue Name: Le Grand Rex
+
+
+Location: Paris
+
+
+Date of Concert: 02/26/2020
+--------------------------------------------------------------
+
+
+Venue Name: GRAND REX
+
+
+Location: Paris-l’hôpital
+
+
+Date of Concert: 02/21/2020
+--------------------------------------------------------------
+
+
+Artist: Michael Giacchino,
+Track Name: Stuff We Did,
+Album Name: Up (Original Motion Picture Soundtrack),
+Preview Track: null
+--------------------------------------------------------------
+
+
+Artist: They Might Be Giants,
+Track Name: Stuff Is Way,
+Album Name: Nanobots,
+Preview Track: https://p.scdn.co/mp3-preview/cbf1e2280dd13bdd5f360f3ded0fdd25c7592b03?cid=324289a841c8417ba5a8bb1b44188df9
+--------------------------------------------------------------
+
+
+Artist: Guy Clark,
+Track Name: Stuff That Works,
+Album Name: Dublin Blues,
+Preview Track: https://p.scdn.co/mp3-preview/3da43e97b68e1160f1ea912a1da17563d996843a?cid=324289a841c8417ba5a8bb1b44188df9
+--------------------------------------------------------------
+
+
+Artist: Thelonious Monk,
+Track Name: Stuffy Turkey,
+Album Name: It's Monk's Time,
+Preview Track: https://p.scdn.co/mp3-preview/ed7383784f292131a10b3e83b35564f2965338c3?cid=324289a841c8417ba5a8bb1b44188df9
+--------------------------------------------------------------
+
+
+Artist: Limp Bizkit,
+Track Name: Break Stuff,
+Album Name: Significant Other,
+Preview Track: null
+--------------------------------------------------------------
+
